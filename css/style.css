@@ -1,0 +1,28 @@
+h4{
+	color: blue;
+}
+.heading1{
+	font-size: 50px;
+}
+.border_black{
+	border: solid black 50px;
+}
+#heading1{
+	border:  solid black 5px;
+}
+
+.box{
+	width: 100px;
+	height: 50px;
+	}
+
+.red{
+	background-color: red;
+	padding: 100px;
+
+}
+.blue {
+	background-color: blue;
+	margin: 100px 50px 30px 100px;
+
+}
